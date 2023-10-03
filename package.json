@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "@ffmpeg/core": "^0.12.3",
+    "@ffmpeg/ffmpeg": "^0.12.6",
+    "@ffmpeg/types": "^0.12.1",
+    "@ffmpeg/util": "^0.12.1",
+    "canvas-capture": "^2.1.1",
+    "ffmpeg": "^0.0.4",
+    "three": "^0.156.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
